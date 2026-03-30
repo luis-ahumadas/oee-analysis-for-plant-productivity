@@ -24,15 +24,16 @@ The project is designed to help manufacturing managers identify bottlenecks, com
 
 ## 📁 Repository Structure
 oee-analysis-for-plant-productivity/
-├── app.py    # Streamlit dashboard application
 
-├── data_generator.py    # Synthetic data generator
+├── app.py       # Streamlit dashboard application
 
-├── oee-analysis-for-plant-productivity.ipynb    # Jupyter analysis notebook
+├── data_generator.py       # Synthetic data generator
 
-├── utils.py     # Utility functions for OEE calculations
+├── oee-analysis-for-plant-productivity.ipynb       # Jupyter analysis notebook
 
-├── requirements.txt    # Python dependencies
+├── utils.py        # Utility functions for OEE calculations
+
+├── requirements.txt       # Python dependencies
 
 └── .gitignore
 
